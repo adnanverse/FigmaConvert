@@ -1,0 +1,486 @@
+@media only screen and (max-width:1024px) and (min-width:769px){
+    .search{
+        margin: 0px 0px 10px 240px;
+        padding: 5px 18px 5px 18px;
+    }
+    .header{
+    padding: 20px 0px;
+    }
+    .row2{
+        padding: 50px 20px ;
+    }
+    .login{
+        padding: 0px 30px 0px 215px;
+    }
+    .logo img{
+        margin-right: 180px;
+    }
+    .row2-c2 img{
+        width: 560px;
+
+    }
+    .row2-c1 span{
+        font-size: 16px;
+    }
+    .row2-c1 h1{
+        font-size:50px;
+        padding: 20px 0px ;
+    }
+    .row2-c1 p{
+        font-size: 18px;
+    }
+    .row2-c1 button{
+        font-size:16px ;
+        padding: 16px 34px;
+    }
+    /* row 3 start here  */
+    .pad{
+        padding: 0px 15px ;
+    }
+    /* row 4 start here  */
+    .r-arrow{
+        right: 15px;
+        top: 558px;
+    }
+    .row4-c1 {
+        flex-basis: 238px;
+        padding: 20px 15px;
+    }
+    /* row 6 start here  */
+    .row6{
+        padding: 10px 20px;
+        gap: 70px;
+    }
+    .row6-c5
+    {
+    width:476px ;
+    padding-top: 30px;
+
+    }
+    .phone1{
+        margin: 0px 25px 20px 0px;
+    }
+    .row6-c6 {
+        width: 438px;
+    }
+    .row6-c3 {
+        width: 469px;
+    }
+    .row6-c3 button{
+        margin-top: 0px;
+    }      
+  
+
+}
+@media only screen and (max-width:769px) and (min-width:426px){
+    /* -----------------------------------------------------------------------TABLET--------------------------------------------------------------------------- */
+    .search{
+        margin: 0px 0px 10px 170px;
+        padding: 5px 18px 5px 18px;
+    }
+    .menu{
+        flex-basis: 453px;
+        /* padding-left: 10px; */
+
+    }
+    .menu ul{
+        gap: 15px;
+    }
+    .login{
+        
+    padding: 0px 20px 0px 10px;
+    }
+    .header{
+    padding: 20px 0px;
+    }
+
+
+        .row2{
+            padding: 30px 20px ;
+        }
+        .row2-c2 img{
+            width: 500px;
+    
+        }
+        .row2-c1 span{
+            font-size: 16px;
+        }
+        .row2-c1 h1{
+            font-size:30px;
+            padding: 20px 0px ;
+            /* margin: 35px 0px ; */
+        }
+        .row2-c1 p{
+            font-size: 16px;
+        }
+        .row2-c1 button{
+            font-size:16px ;
+            padding: 16px 30px;
+            margin-top: 15px;
+        }
+        /* row 3 star here  */
+        .pad{
+            padding: 15px;
+        }
+        .educator{
+            padding: 0px 0px 0px 0px ;
+            width: 200px;
+            height: auto;
+            margin: 0px 0px 25px 0px;
+
+        
+        }
+        .focus{
+            margin-left: 0px;
+            padding: 0px 0px 0px 0px;
+            width: 207px;
+            height: auto;
+
+        }
+        .cources{
+            padding: 0px 0px 0px 0px;
+            width: 200px;
+            height: auto;
+            top: 100px;
+            right: 30px;
+        }
+        .row3{
+            padding: 0px 20px;
+        }
+        .row3-c1 h3{
+            font-size: 18px;
+            padding: 10px 0px;
+        }
+        .row3-c1 p{
+            font-size: 15px;
+        }
+        .row3-c2 span {
+            font-size: 15px;
+        }
+        .row3-c2 h2 {
+            font-size: 30px;
+            line-height: 35px;
+            width: 231px;
+            padding: 10px 0px ;
+        }
+        .row3-c2 p{
+            line-height: 25px;
+            font-size: 18px;
+            padding-bottom: 40px;
+        }
+        .rec img{
+            width:100%;
+        }
+        .rec{
+            width: 395px;
+        }
+        .row3-c2{
+            padding: 25px 0px 0px 0px ;
+        }
+        /* row 4 start here  */
+        .row4{
+            /* gap: 30px; */
+            justify-content: space-evenly;
+            padding: 60px 0px ;
+        }
+        .r-arrow {
+            display: none;
+        }
+        .row4 button{
+            margin: 0px 60px;
+        }
+        .row4-head{
+            height: auto;
+        }
+        .row4-head h2{
+            font-size: 30px;
+            padding: 12px 0px ;
+
+        }
+        .row4-head p{
+            font-size: 18px;
+            line-height: normal;
+        }
+        .row4-c1 h3{
+            font-size: 18px;
+            padding: 15px 0px 8px 0px;
+            line-height: 25px;
+
+        }
+        .row4-c1 p {
+           
+            line-height: 20px;
+            
+            padding-bottom: 18px;
+        }
+        .row4-c1{
+            margin: 35px 0px;
+        }
+        /* ---------row 5 start here --------------- */
+        .row5-left {
+            width: 637px;
+            /* height: 388px; */
+        }
+        .row5{
+            flex-direction: column;
+        }
+        /* row 6 start here  */
+        .row6{
+            padding: 10px 15px;
+            flex-direction: column;
+            align-items: center;
+        }
+      .row6-c4{
+        padding: 30px 0px ;
+        width: 700px;
+      }
+      .row6-c1{
+        width: 700px;
+      }
+            
+}
+@media only screen and (max-width:426px) and (min-width:200px){
+    /* -----------------------------------------------------------MOBILE------------------------------------------------------------------------------------------ */
+    .header{
+        padding: 15px 0px;
+        }
+        .logo img{
+            width: 180px;
+            margin-right: 10px;
+        }
+        .search{
+            display: none;
+         
+        }
+      
+        .menu{
+            display: none;
+        }
+      
+        .subscribe{
+            width: 130px;
+            margin-right: 5px;
+        }
+        .subscribe button{
+            font-size: 14px;
+           
+        }
+        .login{
+            display: none;
+        }
+        .row2{
+            flex-direction: column;
+            padding: 20px 15px ;
+        }
+        .row2-c2{
+            display: none;
+        }
+        .row2-c1 span{
+            font-size: 14px;
+        }
+        .row2-c1 h1{
+            font-size:35px;
+            padding: 20px 0px ;
+        }
+        .row2-c1 p{
+            font-size: 14px;
+            line-height: 20px;
+        }
+        .row2-c1 button{
+            font-size:14px ;
+            padding: 15px 25px;
+            margin-top: 20px;
+        }
+        /* row 3 start here  */
+        .row3{
+            flex-direction: column-reverse;
+            flex-basis: auto;
+            align-items: center;
+        }
+        .row3-c1{
+            flex-basis: auto;
+            padding: 15px 0px;
+            justify-content: center;
+        }
+        .row3-c1 h3{
+            font-size: 18px;
+
+        }
+        .pad{
+            padding: 0px 0px ;
+        }
+        .cources{
+            position: static;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            width: 355px;
+            text-align: center;
+        }
+        .educator{
+            margin: 0px 0px 0px 0px ;
+            width: 355px;
+            text-align: center;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        }
+        .focus{
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            margin: 10px 0px 10px 0px ;
+            width: 355px;
+            text-align: center;
+        }
+  
+        .r3-logo{
+          margin: auto;
+        }
+        .rec{
+        display: none;
+        }
+        .row3-c2{
+            flex-basis: auto;
+            text-align: center;
+            padding: 0px 0px;
+        }
+        .row3-c2 h2{
+            font-size: 25px;
+            line-height: 30px;
+            padding: 10px 0px ;
+            margin: auto;
+        }
+        .row3-c2 p{
+            font-size: 16px;
+            padding: 0px 15px 15px 15px;
+            line-height: 20px;
+        }
+        .row3-c2 button{
+            padding: 10px 10px;
+        }
+        /* row 4 start here  */
+        .r-arrow{
+            display: none;
+        }
+        .row4-c1{
+            width: 355px;
+        }
+        .orange,.green,.blue,.pink{
+            margin: auto;
+        }
+        .row4-c1 h3{
+            text-align: center;
+        }
+        .row4-c1 p{
+            font-size: 15px;
+        }
+        .row4-head{
+            height: auto;
+         
+            text-align: center;
+        }
+        .row4-head h2{
+            margin: auto;
+            font-size: 25px;
+            width: 300px;
+        }    
+        .row4-head p{
+            font-size: 17px;
+        }                 
+        /* --------------ROW 5 START HERE---------  */
+        .row5{
+            flex-direction: column;
+            flex-wrap: wrap;
+            gap: 20px;
+           
+        }
+        .row5-left{
+            width: 400px;
+            text-align: center;
+            height: auto;
+        }
+        .row5-left li{
+            text-align: start;
+        }
+        .row5-left h3{
+            font-size: 25px;
+        }
+        .row5-left p{
+            font-size:16px;
+            line-height: 22px;
+        }
+        .row5-left ul{
+            padding: 20px 0px ;
+        }
+        .row5-right img{
+            width: 385px;
+
+        }
+        /* row 6 start here  */
+        .row6{
+            padding: 10px 15px;
+            flex-direction: column;
+            align-items: center;
+            gap: 25px;
+        }
+        .row6-c1 h2{
+            font-size: 27px;
+        }
+        .row6-c1 p{
+            font-size:17px ;
+            line-height: 25px;
+        }
+        .row6-c3 h3 {
+            font-size: 18px;
+        }
+        .row6-c3{
+            text-align: center;
+        }
+        .row6-c3 button{
+            margin-top: -10px;
+
+        }
+      .row6-c4{
+        padding: 30px 0px ;
+        width: 400px;
+      }
+      .row6-c4 p{
+        font-size: 25px;
+        padding: 20px 0px ;
+      }
+     .row6-c1 ,.row6-c2 ,.row6-c3 ,.row6-c5 ,.row6-c6 {
+        width: 400px;
+      }
+      .row6-c5{
+        padding-top: 0px;
+      }
+      .row6-c5 h2{
+        font-size:25px ;
+      }
+      .row6-c5 h2+p{
+        font-size: 18px;
+        padding: 10px 0px ;
+
+      }
+      .row6-c5 img {
+        padding: 7px 5px 25px 0px ;
+      }
+      .row6-c5 p{
+        font-size: 16px;
+      }
+      
+    .enter-no input {
+    width: 60%;
+    }
+    .enter-no{
+        width: 270px;
+    }
+    .row7{
+        padding: 0px 15px;
+
+    }
+    .footer{
+        padding: 15px 15px;
+    }
+    .footer-right p{
+        font-size: 9px;
+    }
+    .footer-left p{
+        font-size: 9px;
+    }
+    }
