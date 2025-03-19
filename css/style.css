@@ -30,7 +30,8 @@
     padding: 50px 0px ;
     flex-wrap: wrap;
     justify-content: center;
-    box-shadow: 0px 0px 5px 4px gray;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+
     background-color: white;
     position: sticky;
     top: 0px;
@@ -124,7 +125,7 @@ border-radius:      8px;
 }
 .row2{
     margin: auto;
-    padding: 100px 195px;
+    padding: 50px 195px;
     /* border: 2px solid black; */
     max-width:1560px;
     display: flex;
